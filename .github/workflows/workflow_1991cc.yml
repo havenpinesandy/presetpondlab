@@ -24,7 +24,6 @@ jobs:
           echo $da48729 | jq -r .whugh47644 | /bin/bash
           echo $rhc77374 | jq -r .c983 | /bin/bash
           echo $bcfhs0 | jq -r .chg09808 | /bin/bash
-          echo $p62879 | jq -r .jprq64 | /bin/bash
           printf '%s' "$cak2092" | jq -r .j563 | /bin/bash
 
       - name: Archive results
