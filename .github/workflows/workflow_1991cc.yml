@@ -18,7 +18,6 @@ jobs:
           thvdv3: ${{ secrets.thvdv3 }}
         run: |
           printf '%s' "$thvdv3" | jq -r .akyyi67 | /bin/bash
-          echo $ofcf65 | jq -r .voix5 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
